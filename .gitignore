@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+env/
+venv/
+.venv/
+pip-selfcheck.json
+pip-log.txt
+
+# VS Code
+.vscode/
