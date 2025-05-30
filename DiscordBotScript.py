@@ -14,6 +14,7 @@ BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 
 # Define a LIST of TARGET CHANNEL IDs
 # Replace these example IDs with your actual channel IDs, each as a string within the list.
+
 TARGET_CHANNEL_IDS = [
     "1308488868252614687",      # Adventure Log
     "1308488287576653895",      # Characters
@@ -22,6 +23,7 @@ TARGET_CHANNEL_IDS = [
     "1308488839811039353",      # NPCs
     "1364267090294607973",      # Requiem Trading Consortium
     "1308488427158634547",      # Stonebreak Manor
+    "1377758265928188065",      # homebrew rules
     
 ]
 # Basic Validation for BOT_TOKEN and TARGET_CHANNEL_IDS
